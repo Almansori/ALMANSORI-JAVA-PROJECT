@@ -1,0 +1,7 @@
+#Fri Oct 07 16:55:35 MYT 2016
+base.0=/Users/user/AndroidStudioProjects/ALMANSORI2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9080d615127b49a5bcd60c68f4ad4fc1ea868734
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/user/AndroidStudioProjects/ALMANSORI2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f2b4a6d5b5164dacf92494655ab2ce8bb4d56a7a/classes.dex
+base.1=/Users/user/AndroidStudioProjects/ALMANSORI2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f2b4a6d5b5164dacf92494655ab2ce8bb4d56a7a
+file.0=/Users/user/AndroidStudioProjects/ALMANSORI2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9080d615127b49a5bcd60c68f4ad4fc1ea868734/classes.dex
